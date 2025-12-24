@@ -1,2 +1,1 @@
-# ai-ar-gaming
-College Level Miniproject
+# AI-AR-Gaming-Platform
